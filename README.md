@@ -1,5 +1,6 @@
 # Python GitHub Action demo
 
+[![Tests](https://github.com/BartMiki/py-gha/actions/workflows/tests.yml/badge.svg)](https://github.com/BartMiki/py-gha/actions/workflows/tests.yml)
 
 Python GitHub Action demo repository:
 * pytest
